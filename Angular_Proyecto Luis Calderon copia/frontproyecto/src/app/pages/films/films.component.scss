@@ -1,0 +1,105 @@
+h2 {
+  font-size: 38px;
+  font-family: "Monoton", cursive;
+  text-align: center;
+  letter-spacing: 3pt;
+  color: white;
+  padding: 48px;
+}
+
+title {
+  color: white;
+}
+
+h3 {
+  color: white;
+  font-family: "Rubik", sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  text-align: center;
+}
+
+h4 {
+  color: rgb(167, 167, 167);
+  font-family: "Rubik", sans-serif;
+  font-weight: 300;
+  font-size: 0.9rem;
+}
+
+span {
+  color: coral;
+  display: flex;
+  justify-content: center;
+  padding: 8px;
+  font-family: "Rubik", sans-serif;
+  font-size: 1.4rem;
+  font-weight: 800;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.cardTitle {
+  font-size: 1rem;
+  padding: 6px;
+}
+
+.gallery {
+  background-color: #22222f;
+}
+
+.films {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.filmCard {
+  margin: 30px auto;
+  width: 300px;
+  height: 550px;
+  border-radius: 40px;
+  box-shadow: 5px 5px 30px 7px rgba(80, 79, 79, 0.25),
+    -5px -5px 30px 7px rgba(75, 75, 75, 0.22);
+  cursor: pointer;
+  transition: 0.4s;
+  background-color: #3a3a50;
+  gap: 40px;
+}
+
+.filmCard img {
+  width: 300px;
+  height: 350px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  object-fit: cover;
+}
+
+.filmCard:hover {
+  transform: scale(0.95, 0.95);
+  box-shadow: 5px 5px 30px 15px rgba(0, 0, 0, 0.25),
+    -5px -5px 30px 15px rgba(0, 0, 0, 0.22);
+}
+
+.buttonCard {
+  width: 100px;
+  padding: 8px 8px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+  font-size: 0.9rem;
+  transition: 0.3s ease;
+  background: linear-gradient(#131313, #131313) padding-box,
+    linear-gradient(45deg, slateblue, coral) border-box;
+  border: 3px solid transparent;
+  border-radius: 0.5rem;
+  color: coral;
+  margin-top: 16px;
+  margin-left: 34%;
+}
+
+.buttonCard:hover {
+  opacity: 80%;
+}

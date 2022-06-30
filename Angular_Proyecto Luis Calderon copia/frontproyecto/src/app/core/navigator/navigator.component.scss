@@ -1,0 +1,29 @@
+nav {
+  ul {
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #22222f;
+    padding: 8px;
+  }
+}
+
+.logo {
+  max-width: 30%;
+}
+
+a {
+  color: white;
+}
+
+.itemNavigator {
+  color: white;
+  font-family: "Rubik", sans-serif;
+  font-weight: 800;
+  font-size: 1rem;
+}
+
+.itemNavigator:hover {
+  color: coral;
+}

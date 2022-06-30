@@ -1,0 +1,16 @@
+<section class="gallery">
+   <h2 class="filmTitle">LAS 20 MEJORES PELÍCULAS</h2>
+   <div class="films">
+      <figure routerLink="/detail/{{film.id}}" class="filmCard" *ngFor="let film of filmList | filter: searchText">
+         <img src="{{film.cover}}">
+         <h2 class="cardTitle">{{film.title}}</h2>
+         <h3>{{film.author}}</h3>
+         <span>{{film.rate}}</span>
+        <div class="info">
+         <h4>{{film.year}}</h4>
+         <h4>{{film.company}}</h4>
+        </div> 
+         <button class="buttonCard" (click)="catchFilm(film)">Editar</button>
+      </figure>
+   </div>
+</section>

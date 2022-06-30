@@ -1,0 +1,73 @@
+section {
+  background-color: #22222f;
+  height: 100vh;
+}
+
+.manageTitle {
+  font-size: 36px;
+  font-family: "Monoton", cursive;
+  text-align: center;
+  margin-top: 0px;
+  letter-spacing: 3pt;
+  color: white;
+  padding: 48px;
+}
+
+.formFilm {
+  display: flex;
+  flex-direction: column;
+  background-image: url("../../../assets/Frame\ 1\ \(4\).jpg");
+  width: 40%;
+  height: 650px;
+  margin: 0 auto;
+  border-radius: 40px;
+  box-shadow: 5px 5px 30px 15px rgba(0, 0, 0, 0.25),
+    -5px -5px 30px 15px rgba(0, 0, 0, 0.22);
+  align-items: center;
+  justify-content: center;
+}
+
+.labelTitle {
+  color: white;
+  padding: 4px;
+  margin-top: 12px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 800;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.buttonForm {
+  width: 300px;
+  padding: 8px 8px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 800;
+  font-size: 0.9rem;
+  transition: 0.3s ease;
+  background: linear-gradient(#131313, #131313) padding-box,
+    linear-gradient(45deg, slateblue, coral) border-box;
+  border: 3px solid transparent;
+  border-radius: 0.5rem;
+  color: coral;
+  margin-top: 8px;
+}
+
+input {
+  width: 300px;
+  height: 28px;
+  border-radius: 12px;
+  background-color: #43435c;
+  border: none;
+  color: coral;
+}
+
+.buttonForm:hover {
+  opacity: 80%;
+}
+
+.inputText {
+  padding: 4px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+}

@@ -1,0 +1,211 @@
+{
+  "pelis": [
+    {
+      "title": "Parásitos",
+      "author": "Bong Joon-ho",
+      "company": "Barunson",
+      "cover": "https://es.web.img3.acsta.net/pictures/19/09/17/17/13/3740579.jpg",
+      "year": "2019",
+      "rate": "8,7",
+      "id": 1
+    },
+    {
+      "title": "Burning",
+      "author": "Lee Chang-Dong",
+      "company": "Pine House Film",
+      "cover": "https://es.web.img2.acsta.net/pictures/18/09/28/10/49/5367559.jpg",
+      "year": "2019",
+      "rate": "7,6",
+      "id": 2
+    },
+    {
+      "title": "Oldboy",
+      "author": "Park Chan-wook",
+      "company": "Show East Co.",
+      "cover": "https://retazosdecorea.files.wordpress.com/2015/11/posterlaboldboy_3.jpg?w=736",
+      "year": "2003",
+      "rate": "8,5",
+      "id": 3
+    },
+    {
+      "title": "Sin pasado",
+      "author": "Lee Jeong-beom",
+      "cover": "https://es.web.img2.acsta.net/medias/nmedia/18/89/34/65/20041291.jpg",
+      "company": "Cinema Service",
+      "year": "2010",
+      "rate": "7,7",
+      "id": 4
+    },
+    {
+      "title": "Train to Busan",
+      "author": "Yeon Sang-ho",
+      "cover": "https://es.web.img3.acsta.net/pictures/16/11/07/12/58/541167.jpg",
+      "company": "RedPeter Film",
+      "rate": "7,6",
+      "year": "2016",
+      "id": 5
+    },
+    {
+      "title": "Noche en el paraíso",
+      "author": "Park Hoon-jung",
+      "cover": "https://es.web.img3.acsta.net/pictures/21/11/04/22/25/2494167.jpg",
+      "company": "Goldmoon Film",
+      "year": "2020",
+      "rate": "6,7",
+      "id": 6
+    },
+    {
+      "title": "The Chaser",
+      "author": "Na Hong-jin",
+      "cover": "https://es.web.img3.acsta.net/medias/nmedia/18/92/70/66/20213240.jpg",
+      "company": "Fine Cut",
+      "year": "2008",
+      "rate": "7,8",
+      "id": 7
+    },
+    {
+      "title": "Snowpiercer",
+      "author": "Bong Joon-ho",
+      "cover": "https://es.web.img3.acsta.net/pictures/14/04/01/13/28/222030.jpg",
+      "company": "Moho Films",
+      "year": "2013",
+      "rate": "7,1",
+      "id": 8
+    },
+    {
+      "title": "Lazos de Guerra",
+      "author": "Kang Je-gyu",
+      "cover": "https://cdn.shopify.com/s/files/1/0016/0677/8950/products/d1e7d05465be29fe62e02787a4888384_1000x.jpg?v=1537966368",
+      "company": "Showbox Entertainment",
+      "year": "2004",
+      "rate": "8",
+      "id": 9
+    },
+    {
+      "title": "The Host",
+      "author": "Bong Joon-ho",
+      "cover": "https://es.web.img3.acsta.net/medias/nmedia/18/69/55/64/20056256.jpg",
+      "company": "Chungeorahm Film",
+      "year": "2006",
+      "rate": "7,1",
+      "id": 10
+    },
+    {
+      "title": "El extraño",
+      "author": "Na Hong-jin",
+      "cover": "https://es.web.img3.acsta.net/pictures/16/09/22/17/30/476138.jpg",
+      "company": "20th Century Fox",
+      "year": "2016",
+      "rate": "7,4",
+      "id": 11
+    },
+    {
+      "title": "Niebla",
+      "author": "Shim Sung-bo",
+      "cover": "https://es.web.img3.acsta.net/pictures/15/11/12/13/11/329881.jpg",
+      "company": "Lewis Pictures",
+      "year": "2014",
+      "rate": "6,8",
+      "id": 12
+    },
+    {
+      "title": "Vivo",
+      "author": "Il Cho",
+      "cover": "https://es.web.img2.acsta.net/pictures/21/02/03/11/17/1919443.jpg",
+      "company": "Perspective Pictures",
+      "year": "2020",
+      "rate": "6,7",
+      "id": 13
+    },
+    {
+      "title": "Nameless Ganster",
+      "author": "Yun Jong-bin",
+      "cover": "https://cdn.video-store.be/site/assets/files/115529/video-store-movies-poster-nameless-gangster-rules-of-the-time.jpg",
+      "company": "20th Century Fox",
+      "year": "2012",
+      "rate": "7",
+      "id": 14
+    },
+    {
+      "title": "Okja",
+      "author": "Bong Joon-ho",
+      "cover": "https://es.web.img3.acsta.net/pictures/17/05/13/10/06/039567.jpg",
+      "company": "Lewis Pictures",
+      "year": "2017",
+      "rate": "7,3",
+      "id": 15
+    },
+    {
+      "title": "Sympathy for Mr. Vengeance",
+      "author": "Park Chan-wook",
+      "cover": "https://es.web.img2.acsta.net/medias/nmedia/18/89/46/97/20048780.jpg",
+      "company": "CJ Entertainment",
+      "year": "2002",
+      "rate": "7,2",
+      "id": 16
+    },
+    {
+      "title": "Encontré al diablo",
+      "author": "Kim Jee-woon",
+      "cover": "https://es.web.img3.acsta.net/medias/nmedia/18/97/19/74/20514661.jpeg",
+      "company": "Peppermint & Company",
+      "year": "2010",
+      "rate": "7,8",
+      "id": 17
+    },
+    {
+      "title": "The Beast",
+      "author": "Lee Jung-Ho",
+      "cover": "https://es.web.img3.acsta.net/pictures/20/06/08/17/26/4789395.jpg",
+      "company": "Studio & NEW",
+      "year": "2019",
+      "rate": "6,1",
+      "id": 18
+    },
+    {
+      "title": "Memories of Murder",
+      "author": "Bong Joon-ho",
+      "cover": "https://es.web.img3.acsta.net/medias/nmedia/18/93/96/59/20290604.jpg",
+      "company": "CJ Entertainment",
+      "year": "2003",
+      "rate": "8,1",
+      "id": 19
+    },
+    {
+      "title": "Sympathy for Lady Vengeance",
+      "author": "Park Chan-wook",
+      "cover": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/sympathy-lady-vengeance.jpg?itok=LLRTkg8I",
+      "company": "CJ Capital Investment",
+      "year": "2005",
+      "rate": "7,2",
+      "id": 20
+    },
+    {
+      "title": "Seul Station",
+      "author": "Yeon Sang-ho",
+      "company": "Fine Cut",
+      "cover": "https://1.bp.blogspot.com/-QYsaTGvgOCU/XwsFDUXVkaI/AAAAAAAAACk/i_hk7mJ4btkG_bvuQM2r4k05c2LVgixgwCLcBGAsYHQ/s1600/PORTADA.jpg",
+      "year": "2016",
+      "rate": "5,8",
+      "id": 21
+    },
+    {
+      "title": "Psychokinesis",
+      "author": "Yeon Sang-ho",
+      "company": "Fine Cut",
+      "cover": "https://es.web.img3.acsta.net/pictures/17/12/17/21/01/3892098.jpg",
+      "year": "2018",
+      "rate": "5,2",
+      "id": 25
+    },
+    {
+      "title": "Minari",
+      "author": "Lee Isaac Chung",
+      "company": "Plan BA",
+      "cover": "https://es.web.img3.acsta.net/pictures/21/03/09/10/00/1202807.jpg",
+      "year": "2020",
+      "rate": "7,4",
+      "id": 26
+    }
+  ]
+}

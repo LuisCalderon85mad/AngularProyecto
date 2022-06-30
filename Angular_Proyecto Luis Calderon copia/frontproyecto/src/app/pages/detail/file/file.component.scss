@@ -1,0 +1,126 @@
+.fondo {
+  background-color: #22222f;
+}
+
+.imgContainer {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.openContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.dataDetail {
+  position: absolute;
+  top: 450px;
+  left: 80px;
+  color: white;
+  background-color: black;
+  height: 250px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 12px;
+}
+
+.titleDetail {
+  font-family: "Monoton", cursive;
+  font-weight: 800;
+  font-size: 2rem;
+  color: coral;
+}
+
+.rate {
+  font-family: "Rubik", sans-serif;
+  font-size: 1.8rem;
+  font-weight: 600;
+  padding: 8px;
+}
+
+h4 {
+  font-family: "Rubik", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 300;
+}
+
+.buttonCardDetail {
+  width: 100px;
+  padding: 8px 8px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+  font-size: 0.9rem;
+  transition: 0.3s ease;
+  background: linear-gradient(#131313, #131313) padding-box,
+    linear-gradient(45deg, slateblue, coral) border-box;
+  border: 3px solid transparent;
+  border-radius: 0.5rem;
+  color: coral;
+  margin-top: 16px;
+  margin-left: 34%;
+}
+
+.buttonCardDetail:hover {
+  opacity: 80%;
+}
+
+.scene {
+  height: 150px;
+  width: 250px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 5px 5px 30px 7px rgba(80, 79, 79, 0.25),
+    -5px -5px 30px 7px rgba(75, 75, 75, 0.22);
+}
+
+.scene:hover {
+  transform: scale(0.95, 0.95);
+  box-shadow: 5px 5px 30px 15px rgba(0, 0, 0, 0.25),
+    -5px -5px 30px 15px rgba(0, 0, 0, 0.22);
+}
+
+.scenes {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.titleh2 {
+  text-align: center;
+  margin-top: 24px;
+  color: white;
+  font-family: "Rubik", sans-serif;
+  font-size: 1.4rem;
+  font-weight: 800;
+}
+
+.infoDetail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.descriptionTitle {
+  color: white;
+  font-family: "Rubik", sans-serif;
+  font-size: 1.4rem;
+  font-weight: 800;
+  margin-top: 48px;
+}
+
+.description {
+  margin-top: 12px;
+  color: white;
+  font-family: "Rubik", sans-serif;
+  font-size: 1rem;
+  font-weight: 300;
+  width: 600px;
+}

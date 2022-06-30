@@ -1,0 +1,27 @@
+.footerElements {
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #22222f;
+    padding: 32px;
+    align-items: center;
+}
+
+.proverb {
+    color: white;
+    font-size: 40px;
+    font-family: "Monoton", cursive;
+}
+
+.tittleFooter {
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 800;
+
+}
+
+.menuItem {
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 300;
+}
